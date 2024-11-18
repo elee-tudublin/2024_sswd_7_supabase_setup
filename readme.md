@@ -61,6 +61,9 @@ Once setup has completed, the welcome page will display.
 
 <img src="./assets/452a02144842775c8d2ff7c1d7a7ec69.png" alt="Add table" style="zoom:67%;" />
 
+
+**Disable RLS (Row Level Security)**
+
 #### 1. Add the columns and set the data types as shown below. Set the id column as Primary Key
 
  ![new_category_table](./assets/new_category_table.png)
@@ -91,6 +94,8 @@ Don’t for get to do this after editing the table…
 #### 1. Add a new table named product
 
 Name the columns and set data types as below. Set id as the primary key.
+
+**Disable RLS (Row Level Security)**
 
 Use the settings icon to set id as an identity and the other columns as not
 nullable.
